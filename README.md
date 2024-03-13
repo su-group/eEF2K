@@ -2,6 +2,8 @@
 
 This is the official implementation of the paper titled "Developing Lead Compounds of eEF2K Inhibitors Using Ligand-Receptor Complex Structures".
 
+![framework](framework.png)
+
 ## The collection eEF2K-bio
 
 1. [ChEMBL Searhch for `eEF2K`](https://www.ebi.ac.uk/chembl/g/#browse/activities/filter/target_chembl_id%3ACHEMBL5026%20AND%20standard_type%3A(IC50%20OR%20Ki%20OR%20EC50%20OR%20Kd)%20AND%20_exists_%3Astandard_value%20AND%20_exists_%3Aligand_efficiency) -> 75 ligands -> remove_duplicates -> 71 ligands -> `ChEMBL-mols.csv`
